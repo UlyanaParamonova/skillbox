@@ -1234,7 +1234,7 @@ h1, h2, h3 {
 
 }
 
-@media (max-width: 350px) {
+@media (max-width: 360px) {
   .container {
     margin: 0 15px;
   }
